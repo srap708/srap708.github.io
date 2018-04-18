@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to srap708's homepage!
+desciption: feel free to bookmark this to keep an eye on my project updates
 
 You can use the [editor on GitHub](https://github.com/srap708/srap708.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
